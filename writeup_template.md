@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 
 #### 1. Proprocess image
 ![alt text][image1]
-#####1.1 extract color, and yellow colors from image 
+##### 1.1 extract color, and yellow colors from image 
     
 For hightlite lanes on road, need to understand that for white and for yellow lanes extraction will be better to use different color schemes 
 ![alt text][image5]
