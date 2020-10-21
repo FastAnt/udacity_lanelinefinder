@@ -34,7 +34,7 @@ The goals / steps of this project are the following:
 
 ###  Pipeline.
 
-####1. Proprocess image
+#### 1. Proprocess image
 ![alt text][image1]
 #####1.1 extract color, and yellow colors from image 
     
